@@ -122,9 +122,9 @@ class TTT:
         print()
         self.view_board()
 
-# end
-
 
 # create an object and start the game
 game = TTT()
 game.start()
+
+# end
